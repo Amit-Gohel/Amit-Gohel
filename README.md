@@ -1,5 +1,5 @@
-<h1 align="left"> < Hello Coders🚀, I'm Sahil Mandani<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
-<img src="https://badges.pufler.dev/visits/SahilPatel2003/SahilPatel2003">
+<h1 align="left"> < Hello Coders🚀, I'm Amit Gohel <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+<img src="https://badges.pufler.dev/visits/Gohel2002/Gohel2002">
 <img align="right" alt="Coding" width="450" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
@@ -15,9 +15,8 @@
 <p align = "left"><h3 align="left">🟢YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sahil-mandani-1st-995b98204" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="50" /></a>
-<a href="https://github.com/SahilPatel2003" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/github.png?raw=true" alt="Github" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sahil_304" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/codechef.png?raw=true" alt="CodeChef" height="45" width="55" /></a>
+<a href="https://www.linkedin.com/in/amit-gohel-4169b7211" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="50" /></a>
+<a href="https://github.com/Gohel2002" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/github.png?raw=true" alt="Github" height="30" width="40" /></a>
 </p>
   
   🔴 I'm currently diving deeper into:
