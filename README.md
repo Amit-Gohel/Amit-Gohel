@@ -1,6 +1,6 @@
 <h1 align="left">  Hello Coders🚀, I'm Amit Gohel <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
 <img src="https://badges.pufler.dev/visits/Gohel2002/Gohel2002">
-<img align="right" alt="Coding" width="450" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/379ebe8f2a043833bededd41d4987cbd.gif">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
   
@@ -42,4 +42,4 @@
 
  ![github graph](https://activity-graph.herokuapp.com/graph?username=Gohel2002&theme=react-dark&hide_border=true)
 <br>
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
