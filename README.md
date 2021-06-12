@@ -42,4 +42,5 @@
 
  ![github graph](https://activity-graph.herokuapp.com/graph?username=Gohel2002&theme=react-dark&hide_border=true)
 <br>
-<img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" height="350px" width="500px">
