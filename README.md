@@ -20,18 +20,18 @@
 </p>
   
   🔴 I'm currently diving deeper into:
-<br />&emsp;🚀 Problem Solving by honing DSA skills
-  <br />&emsp;🚀 Competitive Programming 
+<br />&emsp;🚀 Python Projects
+  <br />&emsp;🚀 Machine Learning 
   
 <br>
 <h3 align="left"> 🔵 Github Status  <h3> 
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPatel2003&theme=radical&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilPatel2003&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gohel2002&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gohel2002&theme=radical&show_icons=true" />
 </div>
   <h2></h2>
 
- ![github graph](https://activity-graph.herokuapp.com/graph?username=SahilPatel2003&theme=react-dark&hide_border=true)
+ ![github graph](https://activity-graph.herokuapp.com/graph?username=Gohel2002&theme=react-dark&hide_border=true)
 <br>
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
