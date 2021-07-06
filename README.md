@@ -1,5 +1,5 @@
 <h1 align="left">  Hello Coders🚀, I'm Amit Gohel <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<img src="https://badges.pufler.dev/visits/Amit-Gohel/Amit_Gohel" alt="number of visits">
+<img src="https://badges.pufler.dev/visits/Amit-Gohel/Amit-Gohel" alt="number of visits">
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/379ebe8f2a043833bededd41d4987cbd.gif">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
