@@ -1,5 +1,5 @@
 <h1 align="left">  Hello Coders🚀, I'm Amit Gohel <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<img src="https://badges.pufler.dev/visits/Gohel2002/Gohel2002">
+<img src="https://badges.pufler.dev/visits/Amit-Gohel/Amit_Gohel" alt="number of visits">
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/379ebe8f2a043833bededd41d4987cbd.gif">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
@@ -35,12 +35,12 @@
 <h3 align="left"> 🔵 Github Status  <h3> 
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gohel2002&theme=radical&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gohel2002&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amit-Gohel&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Gohel&theme=radical&show_icons=true" />
 </div>
   <h2></h2>
 
- ![github graph](https://activity-graph.herokuapp.com/graph?username=Gohel2002&theme=react-dark&hide_border=true)
+ ![github graph](https://activity-graph.herokuapp.com/graph?username=Amit-Gohel&theme=react-dark&hide_border=true)
 <br>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" height="350px" width="500px">
