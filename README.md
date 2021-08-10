@@ -23,7 +23,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-gohel-4169b7211" target="blank"><img align="center" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Photos/linkedIn.png" alt="LinkedIn" height="30" width="50" /></a>
-<!-- <a href="https://github.com/Gohel2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Photos/github.png" alt="Github" height="30" width="40" /></a> -->
+<a href="https://twitter.com/ai_beast_coder" target="blank"><img align="center" src="https://github.com/Amit-Gohel/Amit-Gohel/blob/main/Photos/logo-rond-twitter.png" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ai.beast_coder.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Photos/Insta.png" alt="Github" height="30" width="40" /></a>
 </p>
   <br>
