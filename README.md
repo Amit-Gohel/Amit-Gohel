@@ -2,7 +2,7 @@
 <img src="https://badges.pufler.dev/visits/Amit-Gohel/Amit-Gohel" alt="number of visits">
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/Gohel2002/Gohel2002/main/Gift/379ebe8f2a043833bededd41d4987cbd.gif">
 
-<h3 align = "left">🟠Pursuing Computer Engineering - 2st Year🎓.<br><br>
+<h3 align = "left">🟠Pursuing Computer Engineering - 3rd Year🎓.<br><br>
   
 <h3 align="left">🔴Languages:</h3>
 <p align="left"> 
